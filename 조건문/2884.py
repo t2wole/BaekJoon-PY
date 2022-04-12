@@ -6,3 +6,6 @@ elif m >= 45:
     print(h, m - 45)
 else:
     print(23, m + 15)
+
+
+    
